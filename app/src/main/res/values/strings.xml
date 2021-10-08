@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Crypto Notes</string>
+    <string name="key_loaded">Key Loaded</string>
+    <string name="key_generated">Key Generated</string>
+    <string name="enter_pin">Please enter pin</string>
+    <string name="task_list">Tasks</string>
+    <string name="completed_bool">Completed</string>
+    <string name="delete">Delete</string>
+    <string name="task_text_hint">Task text</string>
+    <string name="note_details_title">Note Detail</string>
+    <string name="save_note">Save</string>
+    <string name="new_task">New</string>
+    <string name="task_title_hint">Title</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="password_again">Password again</string>
+    <string name="gen_key">Generate key</string>
+    <string name="password_cant_be_empty">Password can\'t be empty</string>
+    <string name="password_not_match">Passwords not match</string>
+    <string name="error_decryption">Error decryption</string>
+    <string name="update">Update</string>
+    <string name="locked_note">Lock edit</string>
+</resources>

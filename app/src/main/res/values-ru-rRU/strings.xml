@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_loaded">Ключ загружен</string>
+    <string name="key_generated">Ключ сгенерирован</string>
+    <string name="enter_pin">Введите пин-код</string>
+    <string name="task_list">Заметки</string>
+    <string name="completed_bool">Выполнено</string>
+    <string name="delete">Удалить</string>
+    <string name="task_text_hint">Текст заметки</string>
+    <string name="note_details_title">Детали заметки</string>
+    <string name="save_note">Сохранить</string>
+    <string name="new_task">Создать</string>
+    <string name="task_title_hint">Заголовок</string>
+    <string name="password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="password_again">Ещё раз пароль</string>
+    <string name="gen_key">Сгенерировать ключи</string>
+    <string name="password_cant_be_empty">Пароль не может быть пустым</string>
+    <string name="password_not_match">Пароли не совпадают</string>
+    <string name="error_decryption">Ошибка расшифровки</string>
+    <string name="update">Обновить</string>
+    <string name="locked_note">Запретить редактирование</string>
+</resources>
